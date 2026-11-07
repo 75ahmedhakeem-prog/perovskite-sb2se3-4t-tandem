@@ -1,6 +1,6 @@
 # Perovskite/Sb2Se3 four-terminal tandem: calibrated SCAPS-1D and machine-learning design
 
-Code and data for the manuscript *"Beyond random splits: device-calibrated SCAPS-1D and machine-learning design of perovskite/Sb2Se3 four-terminal tandem"* (S. A. Ahmed, H. M. Altass, R. S. Jassas, S. S. A. Natto, A. Timoumi, A. M. Abdel Hakeem).
+Code and data for the manuscript *"Device-calibrated SCAPS-1D and machine-learning design of perovskite/Sb2Se3 four-terminal tandems: the best bandgap depends on hole-transport alignment"* (S. A. Ahmed, H. M. Altass, R. S. Jassas, S. S. A. Natto, A. Timoumi, A. M. Abdel Hakeem).
 
 ## Contents
 
