@@ -220,7 +220,7 @@ energy distribution : single
 Reference for defect energy :  3 ; 3 = above highest EV; 4 = below lowest EC; 5 = above Ei left; 6 = above Ei right; 7 = above EV left (= SCAPS%<2.7 reference); 8 = above EV right; 9 = above middle of interface gap
 Et :  0.60 [eV]
 Ekar :  0.10 [eV]
-N : 2.800e+14 [/m^2]
+N : 2.850e+14 [/m^2]
 
 
 layer
