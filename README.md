@@ -1,6 +1,6 @@
 # Perovskite/Sb2Se3 four-terminal tandem: calibrated SCAPS-1D and machine-learning design
 
-Code and data for the manuscript *"Hole-transport alignment, not bandgap alone, sets the efficiency of four-terminal perovskite/Sb2Se3 tandems"* (S. A. Ahmed, H. M. Altass, R. S. Jassas, S. S. A. Natto, A. Timoumi, A. M. Abdel Hakeem).
+Code and data for the manuscript *"Bandgap is not enough: hole-transport alignment in perovskite/Sb2Se3 tandems"* (S. A. Ahmed, H. M. Altass, R. S. Jassas, S. S. A. Natto, A. Timoumi, A. M. Abdel Hakeem).
 
 ## Contents
 
